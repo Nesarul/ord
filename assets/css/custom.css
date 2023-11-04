@@ -1,0 +1,51 @@
+.hero-bg{
+    background-color: transparent;
+    background-image: radial-gradient(at center right, #FFB466 0%, #FFA03C 100%);
+}
+.about-bg{
+    background-color: transparent;
+    background-image: radial-gradient(at center right, #FFA07A 0%, #FA8072 100%);
+}
+.ig,
+.yg{
+    display: block;
+    padding:20px;
+    background-color: #000;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+}
+.yg{
+    background-color: #ff0000;
+}
+.btn-mclose{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: none !important;
+    box-shadow: none !important;
+    width:30px;
+    height: 30px;
+    background-color: #f008;
+    color:white;
+    position: absolute;
+    right:30px;
+    top:30px;
+}
+.number{
+    font-size: 2rem;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+}
+.info{
+    font-size: 1rem;
+    display: block;
+    text-align: center;
+}
+.icons img{
+    width:50px;
+}
+.wb-200{
+    max-width:200px;
+}
